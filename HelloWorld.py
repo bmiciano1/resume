@@ -1,2 +1,2 @@
-### Calls print function and prints "Hello World" with out the double quotes to stdout
+### Calls print function and prints "Hello World" without the double quotes to stdout
 print("Hello World")
